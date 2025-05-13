@@ -100,12 +100,9 @@ checksum = "5b63caa9aa9397e2d9480a9b13673856c78d8ac123288526c37d7839f2a86990"
 
 [[package]]
 name = "colored-hexdump"
-version = "0.1.0"
+version = "0.2.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "f89a6e59ae185fa40bb02d5ce4dd550908073ad749d96960840de285e98a2852"
-dependencies = [
- "clap",
-]
+checksum = "831aef047609eb5f6b87b366e58b9ed1a14e494df7867db856f03de0287d62e8"
 
 [[package]]
 name = "heck"
