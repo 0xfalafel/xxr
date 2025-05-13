@@ -1,0 +1,10 @@
+[package]
+name = "xxr"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+repository = "https://github.com/0xfalafel/xxr"
+
+[dependencies]
+colored-hexdump = "0.1.0"
+clap = { version = "4.5.38", features = ["derive"] }
