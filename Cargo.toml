@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2024"
 license = "MIT"
 repository = "https://github.com/0xfalafel/xxr"
+description = "cli tool to create colorful hexdumps"
 
 [dependencies]
 colored-hexdump = "0.2.2"
